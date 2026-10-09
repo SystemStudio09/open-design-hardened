@@ -1,6 +1,6 @@
 # open-design-hardened
 
-Fork privado y **endurecido** de [`nexu-io/open-design`](https://github.com/nexu-io/open-design),
+Fork **endurecido** de [`nexu-io/open-design`](https://github.com/nexu-io/open-design),
 preparado para uso seguro en el ecosistema propio. No es el repo original: es una
 base controlada sobre un commit auditado, con una postura de seguridad por
 defecto. El registro completo de cambios de seguridad esta en
